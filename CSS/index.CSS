@@ -75,17 +75,7 @@ button:hover{
 #create{
     width: 100%;
 }
-/* .search input
-{
-    width: 100%;
-}
-.searchbtn button{
-    width: 45%;
-}
-.searchbtn{
-    display: flex;
-    justify-content: space-between;
-} */
+
 table{
     text-align: center;
     margin: 10px 0;
