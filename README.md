@@ -1,6 +1,6 @@
 # Pro CRUD Management System 🚀
 🚀 Live Demo
-[https://ahmed-algamal-dev.github.io/F7-Fitness-Project/]
+[https://ahmed-algamal-dev.github.io/pro-CRUD-management-]
 
 A professional Data Management System built with **Vanilla JavaScript**, designed for high performance and clean data handling.
 
