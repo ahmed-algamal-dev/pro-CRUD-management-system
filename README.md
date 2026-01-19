@@ -5,9 +5,9 @@ A professional Data Management System built with **Vanilla JavaScript**, designe
 ## 🛠️ Key Features
 - **Full CRUD Operations**: Create, Read, Update, and Delete data seamlessly.
 - **Local Storage Persistence**: Data remains saved even after page refresh.
-- **Real-time Search**: Search through records instantly by title or category.
+- **Dynamic Data Rendering**: Table updates automatically when data changes.
 - **Automated Calculations**: Real-time total price calculation including taxes and ads.
-- **Responsive Design**: Clean UI that works on all screen sizes.
+- **RDesktop Optimized: Clean UI designed for efficient desktop management.
 
 ## 💻 Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+).
